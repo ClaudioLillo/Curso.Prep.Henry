@@ -1,0 +1,41 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body{
+	background-image:url("https://static.wixstatic.com/media/e9ff8e_f1ca06bd515e4b558d2e0b21c7ff9c40~mv2_d_1920_1200_s_2.jpg");
+}
+ 
+#main{
+	width:80%;
+	border:none;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+h1{
+	color: rgba(0,23,140,1);
+}
+img{
+	width:400px;
+}
+.divClass{
+	display:block;
+	text-align:center;
+}
+#thirdDiv{
+	margin-left:auto;
+	margin-right:auto;
+	width:600px;
+	height:500px;
+	background: rgba(200,32,0,1);
+	padding:50px;
+	border: 3px solid rgba(0,0,0,0.5);
+	
+	
+}
+#spanId{
+	font-size:18px;
+}
